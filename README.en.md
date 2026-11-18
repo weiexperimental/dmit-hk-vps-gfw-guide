@@ -35,7 +35,7 @@ Contents:
 - This is an unofficial guide written by an individual. It has no connection with DMIT, does not speak for DMIT, and is not DMIT's official documentation. DMIT's website and official docs are the authority on DMIT's rules.
 - This guide contains no hidden content written for AI. The "[Hand it to your AI agent](#hand-it-to-your-ai-agent)" section is a public prompt that you can read and edit yourself.
 
-The text of this guide is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). To reuse it, credit it with a link to https://github.com/weiexperimental/dmit-hk-vps-gfw-guide. The full license text is in the `LICENSE` file of this repository.
+The text of this guide is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). To reuse it, credit it with a link to [https://github.com/weiexperimental/dmit-hk-vps-gfw-guide](https://github.com/weiexperimental/dmit-hk-vps-gfw-guide). The full license text is in the `LICENSE` file of this repository.
 
 <!-- section:facts -->
 ## DMIT Hong Kong plan facts

@@ -35,7 +35,7 @@
 - 本文是个人编写的非官方教程，与 DMIT 没有任何关联，不代表 DMIT，也不是 DMIT 的官方文档。DMIT 的规则以其官网和官方文档为准。
 - 本文没有写给 AI 看的隐藏内容。「[交给你的 AI agent](#交给你的-ai-agent)」一节是公开的提示词，你可以自己读、自己改。
 
-本文文字依 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权。转载或改写时，请署名并附上本文链接 https://github.com/weiexperimental/dmit-hk-vps-gfw-guide。完整授权文本见本仓库的 `LICENSE` 文件。
+本文文字依 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权。转载或改写时，请署名并附上本文链接 [https://github.com/weiexperimental/dmit-hk-vps-gfw-guide](https://github.com/weiexperimental/dmit-hk-vps-gfw-guide)。完整授权文本见本仓库的 `LICENSE` 文件。
 
 <!-- section:facts -->
 ## DMIT 香港方案事实表
