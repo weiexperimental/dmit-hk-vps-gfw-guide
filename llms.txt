@@ -1,0 +1,13 @@
+# DMIT Hong Kong VPS Guide: sing-box with VLESS + REALITY and Hysteria2
+
+> An unofficial, independent guide (DMIT 香港 VPS 翻墙教程, not affiliated with DMIT) to running sing-box on one DMIT Hong Kong VPS with VLESS + XTLS Vision + REALITY (TCP 443) and Hysteria2 (UDP 443), for the reader's own use. The READMEs contain the author's DMIT referral link; you can order from DMIT without it, and nothing in the guide depends on using it. Each fact shows its own source link and verification date. No protocol can promise to stay unblocked, and circumvention tools carry legal risk in mainland China; the Risks section explains this.
+
+## Guides
+
+- [简体中文](https://raw.githubusercontent.com/weiexperimental/dmit-hk-vps-gfw-guide/main/README.md): Simplified Chinese guide, the default GitHub page.
+- [繁體中文](https://raw.githubusercontent.com/weiexperimental/dmit-hk-vps-gfw-guide/main/README.zh-Hant.md): Traditional Chinese guide, Hong Kong written style.
+- [English](https://raw.githubusercontent.com/weiexperimental/dmit-hk-vps-gfw-guide/main/README.en.md): English guide.
+
+## Verification
+
+- Last verified: 2026-11-17
